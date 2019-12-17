@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeetCode_AddTwoNumbers", "LeetCode_AddTwoNumbers\LeetCode_AddTwoNumbers.csproj", "{FB811072-FD09-4101-8030-46A49AEB2C79}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB811072-FD09-4101-8030-46A49AEB2C79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB811072-FD09-4101-8030-46A49AEB2C79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB811072-FD09-4101-8030-46A49AEB2C79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB811072-FD09-4101-8030-46A49AEB2C79}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {267991FF-9E98-4D60-8D80-6F3C7D4E52A5}
+	EndGlobalSection
+EndGlobal
